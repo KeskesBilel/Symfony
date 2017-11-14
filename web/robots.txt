@@ -3,4 +3,7 @@
 
 User-agent: *
 
+<<<<<<< HEAD
 bb
+=======
+>>>>>>> origin/master
